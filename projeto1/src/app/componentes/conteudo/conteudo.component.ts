@@ -12,6 +12,7 @@ export class ConteudoComponent implements OnInit {
     public link_foto: string;
     public textoForm: string;
     public senha: string = '';
+    public clicado: boolean;
 
 
     public constructor() {
@@ -19,6 +20,7 @@ export class ConteudoComponent implements OnInit {
         this.valor = 0;
         this.link_foto = '/assets/imagem2.jpg';
         this.textoForm = '';
+        this.clicado = true;
     }
 
     ngOnInit(): void {
@@ -32,7 +34,7 @@ export class ConteudoComponent implements OnInit {
     }
 
     public enviarDados() {
-        console.log(this.textoForm + ' / ' + this.senha);
+        console.log('Login: ' + this.textoForm + ' / ' + 'Senha: ' + this.senha + ' / ' + 'Clicado? ' + this.clicado);
 
     }
 }
