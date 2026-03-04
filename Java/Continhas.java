@@ -30,5 +30,9 @@ public class Continhas {
         d = 1.0f / 2;
         System.out.println("Valor de d = " + d);
 
+        System.out.printf("O valor de d = %.3f\n", d);
+
+        System.out.printf("Mostrando todo mundo: a = %d, b = %d, c = %d, d = %.2f\n", a, b, c, d);
+
     }
 }
