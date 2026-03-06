@@ -3,8 +3,7 @@ public class Continhas {
 
     public static void main(String args[]) {
         int a, b, c;
-        float d, e;
-        double f;
+        float d;
 
         a = 27;
         b = 4;

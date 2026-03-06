@@ -19,6 +19,8 @@ public class BEE1001 {
         // Saída
         System.out.println("X = " + X);
 
+        teclado.close();
+
     }
 
 }
