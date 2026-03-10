@@ -1,0 +1,57 @@
+html {
+    background-color: rgb(114, 165, 197);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#divisao1 {
+    border: 3px solid rgb(231, 13, 13);
+    border-radius: 20px;
+    margin: 25px 20px 30px 20px;
+    padding: 10px 20px 15px 20px;
+}
+
+#divisao2 {
+    border: 2px solid rgb(14, 1, 1);
+
+}
+
+#divisao2:hover {
+    background-color: coral;
+
+}
+
+h3:hover {
+    visibility: hidden;
+}
+
+.classe1 {
+    background-color: blue;
+    color: white;
+}
+
+li {
+    display: inline;
+}
+
+a:link {
+    color: royalblue;
+    font-size: xx-large;
+}
+
+a:hover {
+    background-color: rgb(92, 225, 65);
+    color: white;
+    font-size: xx-large;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: red;
+}
+
+ol {
+    text-align: center;
+}
