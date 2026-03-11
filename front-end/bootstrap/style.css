@@ -1,3 +1,37 @@
+html {
+    background-color: black;
+}
+
 .row {
-    background-color: rgb(156, 124, 94);
+    background-color: rgb(63, 86, 190);
+}
+
+.ola1 {
+    color: rgb(123, 255, 71);
+    font-weight: bold;
+}
+
+.ola2 {
+    color: rgb(71, 89, 255);
+    font-weight: bold;
+}
+
+.ola3 {
+    color: rgb(255, 175, 71);
+    font-weight: bold;
+}
+
+.ola4 {
+    color: rgb(224, 10, 10);
+    font-weight: bold;
+}
+
+.ola5 {
+    color: rgb(241, 4, 134);
+    font-weight: bold;
+}
+
+.ola6 {
+    color: rgb(17, 196, 219);
+    font-weight: bold;
 }
