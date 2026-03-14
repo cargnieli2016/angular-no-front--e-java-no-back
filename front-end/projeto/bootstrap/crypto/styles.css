@@ -1,5 +1,6 @@
 body {
     background-color: #16171D;
+    font-family: "Poppins", sans-serif;
 }
 
 i {
@@ -62,4 +63,22 @@ h4 {
 
 .textoNoticia {
     color: white;
+}
+
+#footer {
+    background-color: #262932;
+}
+
+.menu {
+    font-size: small;
+    color: #787A8D;
+}
+
+.icone {
+    color: #787A8D;
+}
+
+#plus {
+color: white;
+background-color: #F5C249;
 }
