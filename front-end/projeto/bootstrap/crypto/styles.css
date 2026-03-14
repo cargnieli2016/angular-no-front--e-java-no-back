@@ -1,0 +1,65 @@
+body {
+    background-color: #16171D;
+}
+
+i {
+    color: white;
+}
+
+#balance {
+    background-image: linear-gradient(to right, #B8D0F5, #5C90F4);
+    padding: 2em 1em 1em 2em;
+    border-radius: 10px;
+}
+
+.fa-arrow-trend-up {
+    color: green;
+}
+
+h4 {
+    color: #FFFFFF;
+}
+
+.legenda {
+    color: #F5C249;
+}
+
+.moeda {
+    background-color: #282B35;
+    padding: 1em 1em 1em 1em;
+    border-radius: 15px;
+}
+
+.tituloMoeda {
+    color: #FFFFFF;
+    font-size: x-large;
+    margin-left: 0.5em;
+}
+
+.valor {
+    margin-top: 1em;
+    color: #A7AEBF;
+    font-weight: 200;
+}
+
+.lucratividade {
+    color: green;
+}
+
+.fa-bitcoin {
+    color: #F7931A;
+}
+
+.fa-caret-up {
+    color: green;
+}
+
+.noticia {
+    background-color: #282B35;
+    padding: 5px 5px 5px 5px;
+    border-radius: 15px;
+}
+
+.textoNoticia {
+    color: white;
+}
