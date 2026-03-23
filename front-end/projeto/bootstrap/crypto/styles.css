@@ -103,3 +103,17 @@ h4 {
     border-radius: 50%;
     margin: auto;
 }
+
+#btc1 {
+float: right;
+width: 20%;
+margin-right: 30%;
+}
+
+#lucro{
+    display: inline;
+}
+
+#btc2 {
+    margin-right: 0px;
+}
