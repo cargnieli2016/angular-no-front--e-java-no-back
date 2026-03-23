@@ -59,6 +59,7 @@ h4 {
     background-color: #282B35;
     padding: 5px 5px 5px 5px;
     border-radius: 15px;
+    margin-bottom: 5px;
 }
 
 .textoNoticia {
@@ -67,18 +68,38 @@ h4 {
 
 #footer {
     background-color: #262932;
+    position: fixed;
+    bottom: 0;
+}
+
+.itemMenu {
+    color: #787A8D;
+}
+
+.itemMenu i {
+    color: #787A8D;
+}
+
+.itemMenu:hover {
+    color: #F5C249;
+}
+
+.itemMenu i:hover {
+    color: #787A8D;
 }
 
 .menu {
     font-size: small;
-    color: #787A8D;
-}
 
-.icone {
-    color: #787A8D;
 }
 
 #plus {
-color: white;
-background-color: #F5C249;
+    color: white;
+    background-color: #F5C249;
+    font-size: xx-large;
+    width: 60px;
+    height: 60px;
+    padding-top: 5px;
+    border-radius: 50%;
+    margin: auto;
 }
