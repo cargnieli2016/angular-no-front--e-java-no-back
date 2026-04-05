@@ -64,7 +64,7 @@ Se você quiser ver o meu projeto Angular funcionando na sua máquina:
 
 ## ✍️ Autor
 
-Desenvolvido com dedicação por **[SEU NOME AQUI]**.
+Desenvolvido com dedicação por **[DoniZt]**.
 
 *   🌟 Gostou do progresso? Deixe uma estrelinha no repositório!
-*   📫 Entre em contato: `[SEU EMAIL OU LINK DO LINKEDIN]`
+*   📫 Entre em contato: `[nipdev@yahoo.com]`
